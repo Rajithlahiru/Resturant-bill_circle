@@ -1,2 +1,3 @@
 # Resturant-bill_circle
-resturant bill circle using c language
+resturant bill circle
+made this by using c language
